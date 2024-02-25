@@ -4,6 +4,7 @@ pubDatetime: 2024-02-25T10:34:18Z
 title: Full stack foundations
 slug: full-stack-foundations
 featured: true
+draft: false
 tags:
   - summary
 description: Full stack foundations with Remix
