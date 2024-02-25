@@ -1,6 +1,6 @@
 ---
 author: Siddharth Srinivasan
-pubDatetime: 2024-02-25T10:34:18Z
+pubDatetime: 2022-09-23T15:23:00Z
 title: Full stack foundations
 slug: full-stack-foundations
 featured: true
